@@ -1,5 +1,4 @@
 from http.server import HTTPServer,BaseHTTPRequestHandler
-
 content='''
 <!doctype html>
 <html>

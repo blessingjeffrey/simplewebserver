@@ -1,8 +1,8 @@
 # EX01 Developing a Simple Webserver
 ## Date: 20-03-2024
-## Name: Suriya Pravin M
-## Roll no: 212223230223
-## Dept : AIDS
+## Name: Blessing Jeffrey Y.L
+## Roll no: 212223220014
+## Dept: IT
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -105,9 +105,9 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![Alt text](<Ex1 output.jpg>)
+![Alt text](Output.jpg)
 
-![Alt text](table.png)
+![Alt text](output2.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
